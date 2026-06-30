@@ -12,16 +12,17 @@ The platform helps organizations monitor shipments, warehouses, inventory levels
 ## Preview
 
 Dashboard 
-![image alt](
+![image alt](https://github.com/SATYARTH999/satyarthkumarsystem-Supply-Chain-Contro-Tower-Dashboard-System/blob/2293dfa1cfc53a79ee9dfbd0c0674464cafcecf7/Screenshot%202026-07-01%20004630.png)
+
 
 Shipment Tracking
-![image alt](
+![image alt](https://github.com/SATYARTH999/satyarthkumarsystem-Supply-Chain-Contro-Tower-Dashboard-System/blob/2293dfa1cfc53a79ee9dfbd0c0674464cafcecf7/Screenshot%202026-07-01%20004653.png)
 
 Inventory Dashboard 
-![image alt](
+![image alt](https://github.com/SATYARTH999/satyarthkumarsystem-Supply-Chain-Contro-Tower-Dashboard-System/blob/2293dfa1cfc53a79ee9dfbd0c0674464cafcecf7/Screenshot%202026-07-01%20004715.png)
 
 Analytics & Reports
-![image alt](
+![image alt](https://github.com/SATYARTH999/satyarthkumarsystem-Supply-Chain-Contro-Tower-Dashboard-System/blob/2293dfa1cfc53a79ee9dfbd0c0674464cafcecf7/Screenshot%202026-07-01%20004745.png)
 
 Route Optimization
 ![image alt](
