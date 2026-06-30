@@ -25,7 +25,7 @@ Analytics & Reports
 ![image alt](https://github.com/SATYARTH999/satyarthkumarsystem-Supply-Chain-Contro-Tower-Dashboard-System/blob/2293dfa1cfc53a79ee9dfbd0c0674464cafcecf7/Screenshot%202026-07-01%20004745.png)
 
 Route Optimization
-![image alt](
+![image alt](https://github.com/SATYARTH999/satyarthkumarsystem-Supply-Chain-Contro-Tower-Dashboard-System/blob/19239441cb713306a61f12d3c2fae31295cc4f6b/Screenshot%202026-07-01%20004805.png)
 
 
 ## Features
